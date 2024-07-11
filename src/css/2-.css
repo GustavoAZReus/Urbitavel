@@ -1,0 +1,35 @@
+div.container2{
+    width: 676px;
+    height: 980px;
+    top: 248px;
+    left: 382px;
+    border-radius: 39px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+h4{
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 49.2px;
+    color: #678363    ;
+    margin: 45px  0px 42px 0px;
+
+}
+
+img#pessoas2{
+    width: 481px;
+    height: 310.61px;
+    top: 384px; 
+    left: 486px;
+    margin: 0px 0px 49.39px 0px ;
+}
+
+p{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 17.93px;
+    color: #484545    ;
+}
